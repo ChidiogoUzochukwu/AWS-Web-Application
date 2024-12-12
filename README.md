@@ -51,3 +51,6 @@ Cost Optimization
 
 To maintain cost-efficiency, the project employed:
 t2. micro Instance: Chosen for its low cost and suitability for the current scale
+
+
+Public IP Address of Instance: 54.72.96.88
