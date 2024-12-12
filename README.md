@@ -1,6 +1,8 @@
 # AWS-Web-Application
 
 SmartShop Web Infrastructure Project
+
+
 Overview
 This project involves building a scalable and secure web application infrastructure for SmartShop, a fictional mid-sized retail company expanding into e-commerce. The solution leverages Amazon Web Services (AWS) to create a robust platform that ensures high availability, strong security, and cost-effectiveness.
 
@@ -8,6 +10,8 @@ With a limited budget and minimal in-house IT expertise, SmartShop requires a cl
 
 
 Objectives
+
+
 The primary objectives of this project are:
 
 Support Anticipated Growth:
