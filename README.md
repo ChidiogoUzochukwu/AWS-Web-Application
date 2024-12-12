@@ -54,6 +54,8 @@ t2. micro Instance: Chosen for its low cost and suitability for the current scal
 
 
 
+
+
 STEP BY STEP GUIDE OF WHAT I DID
 
 
