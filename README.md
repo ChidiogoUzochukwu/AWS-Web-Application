@@ -53,4 +53,29 @@ To maintain cost-efficiency, the project employed:
 t2. micro Instance: Chosen for its low cost and suitability for the current scale
 
 
+
+STEP BY STEP GUIDE OF WHAT I DID
+
+
+Using an already created VPC and Public Subnet, I created a security group named: ChidiogoGinikaUzochukwu_litaSG allowing SSH and HTTP as the inbound rule.
+
+I went ahead to Launch my Instance named : ChidiogoGinikaUzochukwu_lita, i selected Amazon Linux 2 as the OS and a t2.micro instance type.te
+
+I selected the already created VPC and Subnet. I created a key pair named: ChidiogoGinikaUzochukwu_litaKP which was downloaded to my laptop.
+The Auto-assign Public IP was also Enabled. I crosschecked the information and launched my Instance.
+
+
+I went to the download folder of my laptop, located the key pair, right clicked and selected Git Bash Here
+I entered the right commands, which also included commands to install Apache
+
+I confirmed Apache is running by visiting the instance’s public IP address in a browser.
+
+
+All screenshots are attached
+
+
+
+
+
+
 Public IP Address of EC2 Instance: 54.72.96.88
